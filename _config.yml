@@ -1,6 +1,6 @@
 # Setup
 title: 박기범
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+description: Developer, DataAnalyst
 url: https://ParkGiBeom97.github.io/
 avatar: /avatar.jpeg
 paginate: 5
@@ -29,13 +29,13 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: 박기범
   card: summary
 logo: logo.png
 social:
   name: 박기범
   links:
-    - https://twitter.com/vszhub
+    - https://twitter.com
     - https://github.com/ParkGiBeom97
 google_site_verification: xxxxx
 lang: en
@@ -56,4 +56,4 @@ sass:
 author:
   name: 박기범
   url: https://ParkGiBeom97.github.io/
-  email: vszhub@gmail.com
+  email: shrieking97@naver.com
